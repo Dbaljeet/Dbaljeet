@@ -1,10 +1,15 @@
 ## Hi there 👻
-### Welcome to my github profile.
+#### Welcome to my github profile.
+
+<img width="180em" align="right" src="https://c.tenor.com/zE4ozkXHGWAAAAAC/sylveon.gif">
 
 - 🍪 I'm currently studying at a university.
 - 🍪 I’m currently learning web programming.
+
+<br><br><br>
 ##
 <div>
+  <img align="right" src="https://c.tenor.com/SMVw1SHxtI8AAAAi/cute-pokemon-mew.gif">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dbaljeet&show_icons=true&theme=github_dark">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dbaljeet&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
@@ -30,7 +35,13 @@
   </a>
 </div>
 
+##
 
+<img width="80em" src="https://c.tenor.com/nJii5TIa6DsAAAAi/pokemon_jolteon_run-pokemon.gif">
+
+
+
+![Snake animation](https://github.com/Dbaljeet/Dbaljeet/blob/output/github-contribution-grid-snake.svg)
 
 ##
 
