@@ -43,8 +43,9 @@
       <li style="display : inline_block">
         <a href="https://github.com/Dbaljeet" target="__blanck">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
+          </a>
       </li>
-       </a>
+       
   
    <li>
    <a href="https://github.com/Dbaljeet" target="__blanck">
@@ -59,10 +60,18 @@
     <li>
       <a href="https://github.com/Dbaljeet" target="__blanck">
   <img src="https://aleen42.github.io/badges/src/photoshop.svg">
+        </a>
         </li>
+      <li>
+    <a href="https://github.com/Dbaljeet" target="__blanck">
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   </a>
+      </li>
+  
+  
 </div>
 
+<!--
 ##
 <h3 align="center">Snake</h3>
 <img align="left" width="80em" src="https://c.tenor.com/nJii5TIa6DsAAAAi/pokemon_jolteon_run-pokemon.gif">
@@ -72,7 +81,7 @@
 ![Snake animation](https://github.com/Dbaljeet/Dbaljeet/blob/output/github-contribution-grid-snake.svg)
 
 ##
-
+-->
 
 <!-- PARA PONER REPOSITORIOS
 ### Repos.
