@@ -2,11 +2,19 @@
 #### _Welcome to my github profile._
 
 <img width="180em" align="right" src="https://c.tenor.com/zE4ozkXHGWAAAAAC/sylveon.gif">
+<br>
+
 
 - 🍪 I'm currently studying at a university.
+
+<br>
+
 - 🍪 I’m currently learning web programming.
 
-<br><br><br>
+
+
+<br>
+
 ##
 <div>
   <img align="right" src="https://c.tenor.com/SMVw1SHxtI8AAAAi/cute-pokemon-mew.gif">
