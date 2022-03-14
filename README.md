@@ -19,7 +19,9 @@
 <div>
   <img align="right" src="https://c.tenor.com/SMVw1SHxtI8AAAAi/cute-pokemon-mew.gif">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dbaljeet&show_icons=true&theme=github_dark">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dbaljeet&layout=compact&langs_count=7&theme=github_dark"/>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Dbaljeet/github-readme-stats)
+
 </div>
 
 ##
