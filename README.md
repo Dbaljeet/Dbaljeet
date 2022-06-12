@@ -1,7 +1,9 @@
 # Hi there 👻
 #### _Welcome to my github profile._
 
-<img align="right" src="https://c.tenor.com/zE4ozkXHGWAAAAAC/sylveon.gif">
+
+<img align="right" src="https://c.tenor.com/SMVw1SHxtI8AAAAi/cute-pokemon-mew.gif">
+
 <br>
 
 
@@ -22,15 +24,17 @@
   
   
  
-  <br><br><br><br>
+  <br>
   
   ##
   
-  <img align="right" src="https://c.tenor.com/SMVw1SHxtI8AAAAi/cute-pokemon-mew.gif">
+  <img align="right" src="https://c.tenor.com/zE4ozkXHGWAAAAAC/sylveon.gif" >
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=github_dark)](https://github.com/Dbaljeet/github-readme-stats)
 
 </div>
+
+<br><br><br>
 
 ##
 
