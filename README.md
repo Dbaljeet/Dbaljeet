@@ -24,25 +24,29 @@
   
   
  
-  <br>
+  
   
   ##
+  <br>
+  <!--
   
   <img width="250px" align="right" src="https://c.tenor.com/zE4ozkXHGWAAAAAC/sylveon.gif" >
+ -->
   
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=github_dark)](https://github.com/Dbaljeet/github-readme-stats)
 
 </div>
-
+<!--
 <br><br><br>
-
+ -->
+ 
 ##
 
 ### My skills
 
 <div style="display : inline_block">
-  <img align="left" height="300em" src="https://c.tenor.com/vYhrJmhMswcAAAAi/pokemon-snorlax.gif"/>
+  <img align="right" height="300em" src="https://c.tenor.com/vYhrJmhMswcAAAAi/pokemon-snorlax.gif"/>
     <li style="display : inline_block">
       <a href="https://github.com/Dbaljeet" target="__blanck">
   <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -93,9 +97,18 @@
   
   <li>
     <a href="https://github.com/Dbaljeet" target="__blanck">
-      <img  width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png">
+      <img  width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png">
   </a>
       </li>
+  
+  <li>
+    <a href="https://github.com/Dbaljeet" target="__blanck">
+      <img  width="60px" src="https://user-images.githubusercontent.com/97411557/182114314-6f12736c-0a72-426e-af36-e057f48bdfbd.png">
+  </a>
+      </li>
+  
+  
+
     
   
   
