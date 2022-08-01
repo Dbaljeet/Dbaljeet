@@ -28,7 +28,8 @@
   
   ##
   
-  <img align="right" src="https://c.tenor.com/zE4ozkXHGWAAAAAC/sylveon.gif" >
+  <img width="250px" align="right" src="https://c.tenor.com/zE4ozkXHGWAAAAAC/sylveon.gif" >
+  
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=github_dark)](https://github.com/Dbaljeet/github-readme-stats)
 
