@@ -103,7 +103,8 @@
   
   <li>
     <a href="https://github.com/Dbaljeet" target="__blanck">
-      <img  width="60px" src="https://user-images.githubusercontent.com/97411557/182114314-6f12736c-0a72-426e-af36-e057f48bdfbd.png">
+     <img width="120px" src="https://user-images.githubusercontent.com/97411557/182723200-6e492ef6-93e2-4272-bcca-fff3b7f46301.png"/>
+
   </a>
       </li>
   
