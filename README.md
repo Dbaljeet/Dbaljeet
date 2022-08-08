@@ -1,5 +1,8 @@
 # Hi there 👻
 #### _Welcome to my github profile._
+My name is Angelo Berrios
+
+------------------
 
 
 <img align="right" src="https://c.tenor.com/SMVw1SHxtI8AAAAi/cute-pokemon-mew.gif">
