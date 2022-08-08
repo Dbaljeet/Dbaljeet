@@ -1,6 +1,6 @@
 # Hi there 👻
 #### _Welcome to my github profile._
-My name is Angelo Berrios
+#### My name is Angelo Berrios
 
 ------------------
 
@@ -10,11 +10,11 @@ My name is Angelo Berrios
 <br>
 
 
-- 🍪 I'm currently studying at a university.
+ 🍪 I'm currently studying at a university.
 
 <br>
 
-- 🍪 I’m currently learning web programming.
+ 🍪 I’m currently learning web programming.
 
 
 
