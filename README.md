@@ -14,7 +14,7 @@
 
 <br>
 
- 🍪 I’m currently learning web programming.
+ 🍪 I’m currently learning web programming and data science principally.
 
 
 
