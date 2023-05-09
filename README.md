@@ -37,7 +37,7 @@
  -->
   
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=github_dark)](https://github.com/Dbaljeet/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dbaljeet&theme=github_dark)](https://github.com/Dbaljeet/github-readme-stats)
 
 </div>
 <!--
