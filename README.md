@@ -49,34 +49,48 @@
 ### My skills
 
 <div style="display : inline_block">
-  <img align="right" height="300em" src="https://c.tenor.com/vYhrJmhMswcAAAAi/pokemon-snorlax.gif"/>
-    <li style="display : inline_block">
+ <li style="display : inline_block">
       <a href="https://github.com/Dbaljeet" target="__blanck">
-  <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"> 
       </a>
+      </li>
+ <li>
+    <a href="https://github.com/Dbaljeet" target="__blanck">
+      	<img width="75px" src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white" alt="ReactJS Icon"/>
+  </a>
     </li>
-    <li style="display : inline_block">
-      <a href="https://github.com/Dbaljeet" target="__blanck">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-      </a>
-      </li>
-    <li style="display : inline_block">
-      <a href="https://github.com/Dbaljeet" target="__blanck">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      </a>
-      </li>
-    <li style="display : inline_block">
-      <a href="https://github.com/Dbaljeet" target="__blanck">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
-      </a>
-      </li>
+  <li style="display : inline_block">
+ <img width="75px" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white" alt="NextJS Icon" title="Next.js"/> 
+ </li>
+  <li>
+    <a href="https://github.com/Dbaljeet" target="__blanck">
+      	<img width="75px" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="ReactJS Icon" title="React"/>
+  </a>
+    </li>
+ 
+ <li>
+    <a href="https://github.com/Dbaljeet" target="__blanck">
+      	<img width="75px" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white"/>
+  </a>
+    </li>
+  
+ 
+  <img align="right" height="300em" src="https://c.tenor.com/vYhrJmhMswcAAAAi/pokemon-snorlax.gif"/>
       <li style="display : inline_block">
         <a href="https://github.com/Dbaljeet" target="__blanck">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
           </a>
       </li>
+ <li style="display : inline_block">
+      <a href="https://github.com/Dbaljeet" target="__blanck">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+      </a>
+      </li>
        
-  
+ <li>
+   <a href="https://github.com/Dbaljeet" target="__blanck">
+    <img src="https://github.com/Dbaljeet/Dbaljeet/assets/97411557/e4dda7dc-9961-4e99-ab11-e7fdf579a96a" width=50px title="Astro"/>
+</li>
    <li>
    <a href="https://github.com/Dbaljeet" target="__blanck">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -89,32 +103,34 @@
     </li>
     <li>
       <a href="https://github.com/Dbaljeet" target="__blanck">
-  <img src="https://aleen42.github.io/badges/src/photoshop.svg">
+  <img src="https://aleen42.github.io/badges/src/photoshop.svg" />
+        </a>
+        </li>
+ <li>
+      <a href="https://github.com/Dbaljeet" target="__blanck">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white" />
         </a>
         </li>
       <li>
     <a href="https://github.com/Dbaljeet" target="__blanck">
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   </a>
       </li>
   
-  <li>
-    <a href="https://github.com/Dbaljeet" target="__blanck">
-      <img  width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png">
-  </a>
-      </li>
-  
-  <li>
-    <a href="https://github.com/Dbaljeet" target="__blanck">
-     <img width="120px" src="https://user-images.githubusercontent.com/97411557/182723200-6e492ef6-93e2-4272-bcca-fff3b7f46301.png"/>
-
-  </a>
-      </li>
-  
+ 
   
 
-    
   
+  <li style="display : inline_block">
+      <a href="https://github.com/Dbaljeet" target="__blanck">
+  <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      </a>
+    </li>
+<li style="display : inline_block">
+      <a href="https://github.com/Dbaljeet" target="__blanck">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      </a>
+      </li>
   
 </div>
 
