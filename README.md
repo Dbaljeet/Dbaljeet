@@ -9,12 +9,15 @@
 
 <br>
 
+ 🍪degree in engineering sciences
 
- 🍪 I'm currently studying at a university.
+
+
+ 🍪 I'm in my last year of college (civil engineering in computing and informatics).
 
 <br>
 
- 🍪 Now I’m getting better at web programming and data science principally.
+ 🍪 I'm getting better at web programming, agile methodologies, and starting with cloud primarily.
 
 
 
