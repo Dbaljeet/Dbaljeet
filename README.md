@@ -13,11 +13,15 @@
 
 
 
- 🍪 I'm in my last year of college (civil engineering in computing and informatics).
+🍪 Civil Engineer
+
+🍪 Proficient in data analysis, software development, testing, and cloud computing
+
+🍪 Knowledgeable in agile methodologies
 
 <br>
 
- 🍪 I'm getting better at web programming, agile methodologies, and starting with cloud primarily.
+ 
 
 
 
